@@ -1,0 +1,15 @@
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectDbAnDataGridView.csproj.AssemblyReference.cache
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectDbAnDataGridView.frmQuanLySinhVien.resources
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectDbAnDataGridView.Properties.Resources.resources
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectDbAnDataGridView.csproj.GenerateResource.cache
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectDbAnDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\bin\Debug\ConnectDbAnDataGridView.exe.config
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\bin\Debug\ConnectDbAnDataGridView.exe
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\bin\Debug\ConnectDbAnDataGridView.pdb
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\bin\Debug\EntityFramework.dll
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\bin\Debug\EntityFramework.xml
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectD.C498C105.Up2Date
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectDbAnDataGridView.exe
+C:\Users\KyMinh\source\repos\ConnectDbAnDataGridView\ConnectDbAnDataGridView\obj\Debug\ConnectDbAnDataGridView.pdb
